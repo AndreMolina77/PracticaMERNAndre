@@ -1,7 +1,7 @@
 import express from "express";
+import clientesController from "../controllers/clientesController.js";
 
 const router = express.Router();
-import clientesController from "../controllers/clientesController.js";
 
 router
 .route("/")

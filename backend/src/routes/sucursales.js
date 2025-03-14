@@ -1,5 +1,5 @@
 import express from "express";
-import sucursalesController from "../controllers/sucursalesController";
+import sucursalesController from "../controllers/sucursalesController.js";
 
 const router = express.Router();
 

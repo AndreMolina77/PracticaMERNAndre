@@ -11,7 +11,7 @@ isssNumber
 isVerified (bool) 
 */
 
-import { Schema, Model, model } from "mongoose";
+import { Schema, model } from "mongoose";
 
 const empleadosSchema = new Schema(
     {
